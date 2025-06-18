@@ -17,9 +17,7 @@ This project leverages AI to optimize queue management by predicting queue lengt
 * [Usage](#usage)
 * [Features](#features)
 * [Visualizations](#visualizations)
-* [Model Saving & Loading](#model-saving--loading)
-* [Contributing](#contributing)
-* [License](#license)
+
 
 ---
 
