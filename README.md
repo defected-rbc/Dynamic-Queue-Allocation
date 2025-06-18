@@ -1,7 +1,3 @@
-Here is a suggested README.md file for your GitHub repository:
-
----
-
 # Dynamic Queue Allocation using AI
 
 This project leverages AI to optimize queue management by predicting queue lengths and counter allocations based on historical and real-time data. The solution uses **XGBoost** for multi-output regression to make accurate predictions and improve customer experience in service environments.
@@ -17,6 +13,7 @@ This project leverages AI to optimize queue management by predicting queue lengt
 * [Usage](#usage)
 * [Features](#features)
 * [Visualizations](#visualizations)
+* [Model Saving & Loading](#Model Saving & Loading)
 
 
 ---
